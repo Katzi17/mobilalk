@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "321003333924",
+    "project_id": "bookshop-3e9b0",
+    "storage_bucket": "bookshop-3e9b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321003333924:android:58e59aa9513588183c2bb1",
+        "android_client_info": {
+          "package_name": "com.example.projektbookshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321003333924-pat9d4ud8i9nnjjrkks8qpdmjj37md9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projektbookshop",
+            "certificate_hash": "e75e2ed3573d38eab2d8ce3444e25b9ae06857ab"
+          }
+        },
+        {
+          "client_id": "321003333924-jh35a5nr3co230g13q0a7u0ou1m5pcof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj-ZR0IiEJyC4Ci54VU6Ot-7-ab2mprDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321003333924-jh35a5nr3co230g13q0a7u0ou1m5pcof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

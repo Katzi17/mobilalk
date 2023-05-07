@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">BookShop</string>
+    <string name="name">E-mail</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">E-mail (kötelező)</string>
+    <string name="password_again">Jelszó megerősítése (kötelező)</string>
+    <string name="cancel">Mégse</string>
+    <string name="phoneNumber">Telefonszám</string>
+    <string name="address">Lakcím</string>
+    <string name="seller">Eladó</string>
+    <string name="buyer">Vásárló</string>
+    <string name="loginWithGoogle">Bejelentkezés Google fiókkal</string>
+    <string name="loginAsGuest">Bejelentkezés vendégként</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="price">Ár</string>
+    <string name="addToCart">Kosárba</string>
+    <string name="item_name">Terméknév</string>
+    <string name="delete">Törlés</string>
+    <string name="permission">Engedély</string>
+
+
+    <string-array name="shopping_item_names">
+        <item>Alkonyat</item>
+        <item>Harry Potter és a bölcsek köve</item>
+        <item>Csillagainkban a hiba</item>
+        <item>Harry Potter és a titkok kamrája</item>
+        <item>Szólíts a neveden</item>
+        <item>Az</item>
+        <item>Az útvesztő</item>
+        <item>A kis herceg</item>
+        <item>Az éhezők viadala</item>
+        <item>A Legyek Ura</item>
+    </string-array>
+
+    <string-array name="shopping_item_description">
+        <item>Szerző: Stephenie Meyer</item>
+        <item>Szerző: J.K.Rowling</item>
+        <item>Szerző: John Green</item>
+        <item>Szerző: J.K.Rowling</item>
+        <item>Szerző: André Aciman</item>
+        <item>Szerző: Stephen King</item>
+        <item>Szerző: James Dashner</item>
+        <item>Szerző: Antoine de Saint-Exupéry</item>
+        <item>Szerző: Suzanne Collins</item>
+        <item>Szerző: William Golding</item>
+
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>4.34</item>
+        <item>4.47</item>
+        <item>4.15</item>
+        <item>4.3</item>
+        <item>4.12</item>
+        <item>4.25</item>
+        <item>4.04</item>
+        <item>4.32</item>
+        <item>4.33</item>
+        <item>3.69</item>
+    </array>
+<array name="shopping_item_images">
+    <item>@drawable/alkonyat</item>
+    <item>@drawable/hp_bolcsek</item>
+    <item>@drawable/csillagainkbanahiba</item>
+    <item>@drawable/titkokkamraja</item>
+    <item>@drawable/szolits</item>
+    <item>@drawable/az</item>
+    <item>@drawable/utveszto</item>
+    <item>@drawable/kisherceg</item>
+    <item>@drawable/ehezokviadala</item>
+    <item>@drawable/legyekura</item>
+</array>
+    <array name="shopping_item_price">
+        <item>2 000 Ft</item>
+        <item>3 505 Ft</item>
+        <item>3 790 Ft</item>
+        <item>3 986 Ft</item>
+        <item>3 439 Ft</item>
+        <item>6 990 Ft</item>
+        <item>3 490 Ft</item>
+        <item>1 700 Ft</item>
+        <item>3 383 Ft</item>
+        <item>2 399 Ft</item>
+    </array>
+
+</resources>
